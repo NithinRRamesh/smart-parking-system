@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "mean stack with ionic",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NithinRRamesh/smart-parking-system.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "ionic"
+  ],
+  "author": "Nithin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NithinRRamesh/smart-parking-system/issues"
+  },
+  "homepage": "https://github.com/NithinRRamesh/smart-parking-system#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
